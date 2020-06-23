@@ -1,0 +1,26 @@
+# 17/06/2020
+
+- 08:00:00 <mensagem 1>
+- 15:33:25 <mensagem 2>
+- 19:22:03 <mensagem 3>
+
+# 18/06/2020
+
+- 08:00:00 <mensagem 4>
+- 15:33:25 <mensagem 5>
+- 19:22:03 <mensagem 6>
+
+# 19/06/2020
+
+- 17:04:33 primeiro teste
+- 17:04:52 primeiro teste2
+- 17:07:24 primeiro teste2
+- 17:07:31 primeiro teste 3 4 5 6 7 8 9 10
+- 17:07:46 segundo teste 
+- 17:07:49 segundo 
+- 17:07:52 segundo teste 3 4 5 6 
+
+# 22/06/2020
+
+- 21:50:23 eae krl
+- 21:50:29 eae krl blz? 
